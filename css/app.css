@@ -1,3 +1,8 @@
 body{
 	background-color: #003487;
 }
+.heading{
+	color: green;
+	font-weight: bold;
+	background-color: blue;
+}
